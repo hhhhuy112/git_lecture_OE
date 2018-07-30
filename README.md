@@ -1,3 +1,2 @@
 # git_lecture_OE
-commit 111111
-commit 222222
+pull2 committtttt
