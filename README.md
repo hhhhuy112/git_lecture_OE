@@ -1,14 +1,24 @@
+
 # git_lecture_OE ahihihihi do ngok
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # edit 1
 # edit 2
 # edit 3
-=======
+
 # edit 1
->>>>>>> edit 1st
-=======
+ edit 1st
+
 # edit 1
 # edit 2
 # edit 3
->>>>>>> edit 2
+ edit 2
+
+
+# git_lecture_OE ahihihihi do ngok
+
+# git_lecture_OE
+sssssssssss
+dddddddddddddddd
+one
+vxcdfdfdssd
+ one
