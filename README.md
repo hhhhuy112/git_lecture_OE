@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # git_lecture_OE ahihihihi do ngok
 
@@ -42,3 +43,12 @@ aaaaaaaaa
 dfgsdfgsd
 First Commit
  First Commit
+=======
+# git_lecture_OE
+dawdwadaw
+dnwadwa
+<<<<<<< HEAD
+hahaha
+=======
+>>>>>>> second commit
+>>>>>>> joa
