@@ -1,4 +1,3 @@
-
 # git_lecture_OE ahihihihi do ngok
 
 
@@ -42,3 +41,7 @@ aaaaaaaaa
 dfgsdfgsd
 First Commit
  First Commit
+
+# git_lecture_OE _ by HVHieu
+edit 1
+Commit 1
