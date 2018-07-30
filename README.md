@@ -1,4 +1,10 @@
 
+# git_lecture_OE
+hello :)
+test1
+test 2
+=======
+
 # git_lecture_OE ahihihihi do ngok
 
 # edit 1
