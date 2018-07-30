@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+dagbadjghadjf
+=======
+asdasdasfasfasf
+>>>>>>> 5585593da6f18cf7c8b7585f8469441d75e01dab
+=======
+dagbadjghadjf
+>>>>>>> bd76c7e... ex file
