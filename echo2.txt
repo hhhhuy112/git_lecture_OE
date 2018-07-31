@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 branch
 =======
 echo2
 >>>>>>> 628b67b... echo2
+=======
+branch
+>>>>>>> d41469d... echo2
