@@ -1,3 +1,8 @@
+test1111
+# git_lecture_OE
+hello
+dddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+
 
 # git_lecture_OE ahihihihi do ngok
 
@@ -40,5 +45,4 @@ edit 2
  First Commit
 aaaaaaaaa
 dfgsdfgsd
-First Commit
- First Commit
+
