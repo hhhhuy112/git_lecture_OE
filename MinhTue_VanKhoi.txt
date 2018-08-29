@@ -1,3 +1,7 @@
 MinhTue Commit 1
 MinhTue Commit 2
+
 Van Khoi
+
+Handling Conflict
+
