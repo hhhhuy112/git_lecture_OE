@@ -1,3 +1,8 @@
 afkjafkafksdfa
+<<<<<<< HEAD
 
 cuvip3
+=======
+eqe
+dsd
+>>>>>>> First Commit
