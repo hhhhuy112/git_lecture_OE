@@ -1,3 +1,0 @@
-pull1_commit1
-pull1_commit2
-
