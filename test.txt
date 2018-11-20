@@ -1,2 +1,9 @@
 hello
+<<<<<<< HEAD
+<<<<<<< HEAD
 my name is truong thuy bich
+=======
+>>>>>>> 8d237b7... da them hello
+=======
+my name is truong thuy bich
+>>>>>>> a572ced... my name is truong thuy bich added
