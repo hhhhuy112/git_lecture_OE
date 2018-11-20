@@ -6,4 +6,5 @@ xin chao
 sua lan 1
 sua lan 2
 dep trai vo doi
+hoi ai dep trai hon
 
