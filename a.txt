@@ -4,4 +4,7 @@ eqe
 dsd
 xin chao
 dep trai vo doi
+<<<<<<< HEAD
 buon vi de trai
+=======
+>>>>>>> 80a0a7a... commit lan 1
